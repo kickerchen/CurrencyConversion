@@ -10,7 +10,7 @@ import XCTest
 
 class CurrencyFetchServiceTest: XCTestCase {
 
-    let service = CurrencyFetchServiceMock.shared
+    let service = CurrencyFetchService.shared
     let scheduler = CurrencyFetchScheduler.shared
     
     override func setUp() {
