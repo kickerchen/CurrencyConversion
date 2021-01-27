@@ -31,3 +31,7 @@ Pods will install RxSwift, Realm, Alamofire.
 - CurrencyPickerViewModelTest
 - CurrencyFetchServiceTest
 - CurrencyFetchSchedulerTest
+
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/2072087/105940707-dd5aac00-6096-11eb-9b74-38b4289ec847.png" width="360">
